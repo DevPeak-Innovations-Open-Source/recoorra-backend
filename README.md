@@ -1,2 +1,0 @@
-# recoorra-backend
-reccora-backend
